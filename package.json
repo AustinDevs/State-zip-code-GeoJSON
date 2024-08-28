@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@turf/simplify": "^7.1.0"
+  }
+}
